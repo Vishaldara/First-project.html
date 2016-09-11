@@ -18,10 +18,7 @@
 .link-two>li:hover{
 	font-size:20px;
 	background:gray;
-	
-
 }
-
 
 img{
 	width:216px;
@@ -30,40 +27,57 @@ img{
 
 }
 section{
-	border:2px solid black;
+	/*border-top: 2px solid black;*/
 	padding: 5px;
-	float: left;
-	width:500px;
+    float: left;
+    width: 880px;
+    margin-left: 287px;
+    margin-top: -440px;
+    padding-left: 96px;
+    height: 422px;
+    font-size: 21px;
 	
 }
 
 aside{
-	border: 2px solid black;
 	padding: 4px;
-	margin-right: 680px;
-	float: right;
-	width: 22%;
-	display: :inline-block;
-	margin-top: 5px;
-	font-size: 15px;
+    margin-right: -906px;
+    float: right;
+    width: 113%;
+    margin-top: 20px;
+    font-size: 15px;
 }
 
 .maincontainer{
 	display:flex;
-	border: 2px solid black;
+	border-bottom: 2px solid black;*/
 	flex-wrap:nowrap; 
 	width: 250px;
 	padding-right: 15px;
 	display: block;
-	
-	
+}
+.maincontainer>img
+{
+	width: 465px;
+    height: 350px;
+    float: left;
+    margin-left: 381px;
+    margin-top: 50px;
+}
+/*.div1,img,section{
+	border-top: 2px solid black;*/
+.three{
+	/*border:2px solid black;*/
+	float: right;
+	margin-left: 876px;
+	padding-left: 10px;
 
 }
-.three{
-	border: 2px solid black;
-	float: right;
-	display: inline-block;
-	padding:5px;
-	margin-right: 1480px;
-	position: relative;
+.three>img{
+	width: 467px;
+    float: left;
+    margin: 9px;
+    margin-left: -508px;
+    margin-top: -301px;
+    height: 350px;
 }
