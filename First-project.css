@@ -1,0 +1,69 @@
+#top-link>ul>li{
+	height: 30px;
+	display: inline-block;
+	margin-left: 646px;
+
+}
+#top-link{
+	background-color: rgb(227,194,113);
+	font-size: 8px;
+	float: right;
+}
+.link-two,ul,li{
+	display: inline-block;
+	font-size: 20px;
+	padding: 0px 15px;
+	margin:8px;
+}
+.link-two>li:hover{
+	font-size:20px;
+	background:gray;
+	
+
+}
+
+
+img{
+	width:216px;
+	float:left;
+	margin:9px;
+
+}
+section{
+	border:2px solid black;
+	padding: 5px;
+	float: left;
+	width:500px;
+	
+}
+
+aside{
+	border: 2px solid black;
+	padding: 4px;
+	margin-right: 680px;
+	float: right;
+	width: 22%;
+	display: :inline-block;
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.maincontainer{
+	display:flex;
+	border: 2px solid black;
+	flex-wrap:nowrap; 
+	width: 250px;
+	padding-right: 15px;
+	display: block;
+	
+	
+
+}
+.three{
+	border: 2px solid black;
+	float: right;
+	display: inline-block;
+	padding:5px;
+	margin-right: 1480px;
+	position: relative;
+}
