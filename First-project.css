@@ -15,7 +15,7 @@
 	padding: 0px 15px;
 	margin:8px;
 }
-.link-two>li:hover{
+.link-two li:hover{
 	font-size:20px;
 	background:gray;
 }
